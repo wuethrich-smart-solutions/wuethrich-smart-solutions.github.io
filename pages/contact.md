@@ -1,8 +1,8 @@
 ---
 layout              : page
-title               : "Contact"
+title               : "Kontakt"
 meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
+subheadline         : "Kontaktformular"
 teaser              : "Schreiben Sie uns ihre Anliegen!"
 permalink           : "/contact/"
 ---
