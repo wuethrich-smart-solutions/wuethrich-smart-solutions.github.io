@@ -12,4 +12,4 @@ If you need a fabulous contact form for your website, I suggest you use the free
 
 
 
-<iframe src="https://www.kontaktformular.com/download/responsive/8/kontakt.php" title="W3Schools Free Online Web Tutorials"></iframe>
+<iframe src="https://www.kontaktformular.com/download/responsive/8/kontakt.php" width="800" height="800"title="W3Schools Free Online Web Tutorials"></iframe>
