@@ -26,14 +26,7 @@ permalink           : "/contact/"
 </div>
 
 
-<iframe frameborder="no" src="https://www.kontaktformular.com/download/responsive/8/kontakt.php" width="800" height="800"></iframe>
+<iframe frameborder="no" src="https://www.kontaktformular.com/download/responsive/8/kontakt.php" width="1000" height="800"></iframe>
 
 
 
-<div class="embed-container">
-
-
-<iframe src="http://www.youtube.com/link" id="idIframe" onload="iframeLoaded()" style="border: none; width:100%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
-
-
-</div>
