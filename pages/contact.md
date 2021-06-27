@@ -21,7 +21,7 @@ permalink           : "/contact/"
 
 <div>
 
-<iframe src="https://buero-flex.ch" id="idIframe" onload="iframeLoaded()" style="border: none; width:100%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
+<iframe src="https://www.kontaktformular.com/download/responsive/8/kontakt.php" id="idIframe" onload="iframeLoaded()" style="border: none; width:100%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
 
 </div>
 
