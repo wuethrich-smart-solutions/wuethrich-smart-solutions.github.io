@@ -6,4 +6,4 @@ subheadline         : "Contact Form"
 teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/contact/"
 ---
-<iframe src="https://www.kontaktformular.com/download/responsive/8/kontakt.php" width="800" height="800"></iframe>
+<iframe frameborder="no" src="https://www.kontaktformular.com/download/responsive/8/kontakt.php" width="800" height="800"></iframe>
