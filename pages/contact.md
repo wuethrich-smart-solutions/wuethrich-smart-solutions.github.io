@@ -19,7 +19,11 @@ permalink           : "/contact/"
 </script>
 </head>
 
+<div>
 
+<iframe src="http://www.ihredomain.de/text.html" id="idIframe" onload="iframeLoaded()" style="border: none; width:100%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
+
+</div>
 
 
 <iframe frameborder="no" src="https://www.kontaktformular.com/download/responsive/8/kontakt.php" width="800" height="800"></iframe>
