@@ -21,7 +21,7 @@ permalink           : "/contact/"
 
 <div>
 
-<iframe src="https://www.kontaktformular.com/demo-formulare-ohne/11-advanced/kontakt.php" align="left" id="idIframe" onload="iframeLoaded()" style="border: none; width:100%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
+<iframe src="https://www.kontaktformular.com/demo-formulare-ohne/11-advanced/kontakt.php" align="left" id="idIframe" onload="iframeLoaded()" style="border: none; width:120%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
 
 </div>
 
