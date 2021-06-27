@@ -21,7 +21,7 @@ permalink           : "/contact/"
 
 <div>
 
-<iframe src="http://blick.ch" id="idIframe" onload="iframeLoaded()" style="border: none; width:100%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
+<iframe src="https://buero-flex.ch" id="idIframe" onload="iframeLoaded()" style="border: none; width:100%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
 
 </div>
 
