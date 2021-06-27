@@ -1,9 +1,9 @@
 ---
 layout              : page
 title               : "Kontakt"
-meta_title          : "Contact and use our contact form"
+meta_title          : "Kontaktieren Sie uns für weitere Fragen"
 subheadline         : "Kontaktformular"
-teaser              : "Schreiben Sie uns ihre Anliegen!"
+teaser              : "Schreiben Sie uns ihr Anliegen!"
 permalink           : "/contact/"
 ---
 <head>
