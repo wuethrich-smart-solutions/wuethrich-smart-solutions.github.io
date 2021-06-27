@@ -12,7 +12,7 @@ permalink           : "/contact/"
       var iFrameID = document.getElementById('idIframe');
       if(iFrameID) {
             
-            iFrameID.height = "";
+            iFrameID.height = "600px";
             iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
       }   
   }
