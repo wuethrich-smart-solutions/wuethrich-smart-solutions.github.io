@@ -24,9 +24,3 @@ permalink           : "/contact/"
 <iframe src="https://www.kontaktformular.com/demo-formulare-ohne/11-advanced/kontakt.php" align="left" id="idIframe" onload="iframeLoaded()" style="border: none; width:120%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
 
 </div>
-
-
-<iframe frameborder="no" src="https://www.kontaktformular.com/download/responsive/8/kontakt.php" width="1000" height="800"></iframe>
-
-
-
