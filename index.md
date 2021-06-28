@@ -4,3 +4,4 @@
 
 layout: frontpage
 ---
+{% include alert warning='This is a warning.' %}
