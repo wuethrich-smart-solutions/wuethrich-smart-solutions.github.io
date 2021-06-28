@@ -5,3 +5,5 @@
 layout: frontpage
 ---
 jklöjlö
+
+{% include list-posts entries='3' offset='1' category='design' %}
