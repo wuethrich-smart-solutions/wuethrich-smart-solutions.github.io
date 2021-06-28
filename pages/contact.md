@@ -12,7 +12,7 @@ permalink           : "/contact/"
       var iFrameID = document.getElementById('idIframe');
       if(iFrameID) {
             
-            iFrameID.height = "1100px";
+            iFrameID.height = "1150px";
             iFrameID.height = iFrameID.contentWindow.document.body.scrollHeight + "px";
       }   
   }
@@ -21,6 +21,6 @@ permalink           : "/contact/"
 
 <div>
 
-<iframe src="https://contact.buero-flex.ch/kontakt.php" align="left" id="idIframe" onload="iframeLoaded()" style="border: none; width:95%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
+<iframe src="https://contact.buero-flex.ch/kontakt.php" align="left" id="idIframe" onload="iframeLoaded()" style="border: none; width:120%; margin: 0 0 0 1%;" allowfullscreen scrolling="no"> </iframe>
 
 </div>
