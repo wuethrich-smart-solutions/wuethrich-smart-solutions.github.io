@@ -77,7 +77,7 @@ layout: home
     <li>10 Emails</li>
     <li>10 Domains</li>
     <li>1GB Bandwidth</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="grey"><a href="https://buero-flex.ch/contact/" class="button">Sign Up</a></li>
   </ul>
 </div>
 
@@ -89,7 +89,7 @@ layout: home
     <li>25 Emails</li>
     <li>25 Domains</li>
     <li>2GB Bandwidth</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="grey"><a href="https://buero-flex.ch/contact/" class="button">Sign Up</a></li>
   </ul>
 </div>
 
@@ -101,7 +101,7 @@ layout: home
     <li>50 Emails</li>
     <li>50 Domains</li>
     <li>5GB Bandwidth</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="grey"><a href="https://buero-flex.ch/contact/" class="button">Sign Up</a></li>
   </ul>
 </div>
   </div>
