@@ -106,6 +106,7 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
+	</div>
 
 </body>
 </html>
