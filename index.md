@@ -5,6 +5,9 @@
 layout: home
 ---
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 * {
   box-sizing: border-box;
@@ -62,13 +65,12 @@ layout: home
   }
 }
 </style>
-
-
+</head>
+<body>
 
 <h2 style="text-align:center">Responsive Pricing Tables</h2>
 <p style="text-align:center">Resize the browser window to see the effect.</p>
 
-<div>
 <div class="columns">
   <ul class="price">
     <li class="header">Basic</li>
@@ -77,7 +79,7 @@ layout: home
     <li>10 Emails</li>
     <li>10 Domains</li>
     <li>1GB Bandwidth</li>
-    <li class="grey"><a href="https://buero-flex.ch/contact/" class="button">Sign Up</a></li>
+    <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
 
@@ -89,7 +91,7 @@ layout: home
     <li>25 Emails</li>
     <li>25 Domains</li>
     <li>2GB Bandwidth</li>
-    <li class="grey"><a href="https://buero-flex.ch/contact/" class="button">Sign Up</a></li>
+    <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
 
@@ -101,11 +103,10 @@ layout: home
     <li>50 Emails</li>
     <li>50 Domains</li>
     <li>5GB Bandwidth</li>
-    <li class="grey"><a href="https://buero-flex.ch/contact/" class="button">Sign Up</a></li>
+    <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
-  </div>
 
-
-
+</body>
+</html>
 
