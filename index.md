@@ -66,7 +66,7 @@ layout: home
 }
 </style>
 </head>
-<body>
+
 
 <h2 style="text-align:center">Responsive Pricing Tables</h2>
 <p style="text-align:center">Resize the browser window to see the effect.</p>
@@ -106,7 +106,7 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
-	</div>
 
-</body>
+
+
 </html>
