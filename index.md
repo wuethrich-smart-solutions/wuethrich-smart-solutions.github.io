@@ -5,16 +5,13 @@
 layout: home
 ---
 
-
-
-
 <style>
 * {
   box-sizing: border-box;
 }
 
 .columns {
-  float: left;
+  float: right;
   width: 33.3%;
   padding: 8px;
 }
