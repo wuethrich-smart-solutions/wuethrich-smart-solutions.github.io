@@ -84,7 +84,7 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
-	</div>
+	
 
 <div id="div1">
 <div class="columns">
@@ -98,7 +98,7 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
-	</div>
+	
 
 <div id="div1">
 <div class="columns">
@@ -112,7 +112,7 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
-	</div>
+	
 
 
 
