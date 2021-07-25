@@ -7,14 +7,12 @@ layout: home
 
 
 <html>
-<html>
-<head>
+<body>
 <title>Beispielseite mit CSS</title>
 <link rel="stylesheet" type="text/css" href="/pricebox.css" />
-</head>
 
 
-<body>
+
 
 <h2 style="text-align:center">Responsive Pricing Tables</h2>
 <p style="text-align:center">Resize the browser window to see the effect.</p>
