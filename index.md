@@ -8,9 +8,9 @@ layout: home
 <html>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-div.myclass1
-<style>
 
+<style>
+div.myclass1
 
 * {
   box-sizing: border-box;
@@ -75,7 +75,7 @@ div.myclass1
 <p style="text-align:center">Resize the browser window to see the effect.</p>
 
 <div class="myclass1"
-<div class="columns">
+
   <ul class="price">
     <li class="header">Basic</li>
     <li class="grey">$ 9.99 / year</li>
@@ -88,7 +88,7 @@ div.myclass1
 </div>
 	
 <div class="myclass1"
-<div class="columns">
+
   <ul class="price">
     <li class="header" style="background-color:#04AA6D">Pro</li>
     <li class="grey">$ 24.99 / year</li>
