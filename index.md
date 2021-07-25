@@ -8,7 +8,7 @@ layout: home
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style type="text/css>
+<style>
 #div1
 * {
   box-sizing: border-box;
@@ -72,7 +72,7 @@ layout: home
 <h2 style="text-align:center">Responsive Pricing Tables</h2>
 <p style="text-align:center">Resize the browser window to see the effect.</p>
 
-<div id="div1">
+
 <div class="columns">
   <ul class="price">
     <li class="header">Basic</li>
@@ -86,7 +86,7 @@ layout: home
 </div>
 	
 
-<div id="div1">
+
 <div class="columns">
   <ul class="price">
     <li class="header" style="background-color:#04AA6D">Pro</li>
@@ -100,7 +100,7 @@ layout: home
 </div>
 	
 
-<div id="div1">
+
 <div class="columns">
   <ul class="price">
     <li class="header">Premium</li>
