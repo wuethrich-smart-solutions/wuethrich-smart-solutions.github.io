@@ -73,7 +73,7 @@ layout: home
 <p style="text-align:center">Resize the browser window to see the effect.</p>
 
 <div id="div1">
-
+<div class="columns">
   <ul class="price">
     <li class="header">Basic</li>
     <li class="grey">$ 9.99 / year</li>
@@ -87,7 +87,7 @@ layout: home
 	
 
 <div id="div1">
-
+<div class="columns">
   <ul class="price">
     <li class="header" style="background-color:#04AA6D">Pro</li>
     <li class="grey">$ 24.99 / year</li>
@@ -101,7 +101,7 @@ layout: home
 	
 
 <div id="div1">
-
+<div class="columns">
   <ul class="price">
     <li class="header">Premium</li>
     <li class="grey">$ 49.99 / year</li>
@@ -112,6 +112,8 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
+
+<hr>
 	
 
 
