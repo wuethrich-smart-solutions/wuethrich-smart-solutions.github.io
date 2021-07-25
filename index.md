@@ -72,7 +72,7 @@ layout: home
 <h2 style="text-align:center">Responsive Pricing Tables</h2>
 <p style="text-align:center">Resize the browser window to see the effect.</p>
 
-<div>
+
 <div class="columns">
   <ul class="price">
     <li class="header">Basic</li>
@@ -84,9 +84,8 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
-	</div>
+	
 
-<div>
 <div class="columns">
   <ul class="price">
     <li class="header" style="background-color:#04AA6D">Pro</li>
@@ -98,10 +97,10 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
-	</div>
+	
 	
 
-<div>
+
 <div class="columns">
   <ul class="price">
     <li class="header">Premium</li>
@@ -113,7 +112,7 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
-	</div>
+	</body>
 
 
 	
