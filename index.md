@@ -9,7 +9,7 @@ layout: home
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-#div1
+
 * {
   box-sizing: border-box;
 }
