@@ -9,12 +9,13 @@ layout: home
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
+#div1
 * {
   box-sizing: border-box;
 }
 
 .columns {
-  float:right ;
+  float:left ;
   width: 33.3%;
   padding: 8px;
 }
@@ -71,6 +72,7 @@ layout: home
 <h2 style="text-align:center">Responsive Pricing Tables</h2>
 <p style="text-align:center">Resize the browser window to see the effect.</p>
 
+<div id="div1">
 <div class="columns">
   <ul class="price">
     <li class="header">Basic</li>
@@ -106,7 +108,9 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
+	</div>
 
 </body>
+
 </html>
 
