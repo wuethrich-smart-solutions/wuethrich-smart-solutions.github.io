@@ -8,7 +8,7 @@ layout: home
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
+<style type="text/css>
 #div1
 * {
   box-sizing: border-box;
@@ -84,7 +84,9 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
+	</div>
 
+<div id="div1">
 <div class="columns">
   <ul class="price">
     <li class="header" style="background-color:#04AA6D">Pro</li>
@@ -96,7 +98,9 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
+	</div>
 
+<div id="div1">
 <div class="columns">
   <ul class="price">
     <li class="header">Premium</li>
@@ -111,5 +115,5 @@ layout: home
 	</div>
 
 
-</html>
+
 
