@@ -110,7 +110,6 @@ layout: home
 </div>
 	</div>
 
-</body>
 
 </html>
 
