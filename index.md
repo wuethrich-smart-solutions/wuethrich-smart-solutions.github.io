@@ -5,18 +5,17 @@
 layout: home
 ---
 
+
 <html>
-
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <style>
-
 * {
   box-sizing: border-box;
 }
 
 .columns {
-  float:left ;
+  float: left;
   width: 33.3%;
   padding: 8px;
 }
@@ -67,14 +66,13 @@ layout: home
   }
 }
 </style>
-
+</head>
 <body>
 
 <h2 style="text-align:center">Responsive Pricing Tables</h2>
 <p style="text-align:center">Resize the browser window to see the effect.</p>
 
-<div class="columns"
-
+<div class="columns">
   <ul class="price">
     <li class="header">Basic</li>
     <li class="grey">$ 9.99 / year</li>
@@ -85,8 +83,8 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
-	
-<div class="columns"
+
+<div class="columns">
   <ul class="price">
     <li class="header" style="background-color:#04AA6D">Pro</li>
     <li class="grey">$ 24.99 / year</li>
@@ -97,9 +95,6 @@ layout: home
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
-	
-	
-
 
 <div class="columns">
   <ul class="price">
@@ -113,10 +108,9 @@ layout: home
   </ul>
 </div>
 
-	</body>
+</body>
+</html>
 
-
-	
 
 
 
