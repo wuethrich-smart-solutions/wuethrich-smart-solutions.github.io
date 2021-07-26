@@ -5,14 +5,14 @@ body
 }
 
 /* Create three columns of equal width */
-div.columns {
+.columns {
   float: left;
   width: 33.3%;
   padding: 8px;
 }
 
 /* Style the list */
-div.price {
+.price {
   list-style-type: none;
   border: 1px solid #eee;
   margin: 0;
@@ -27,27 +27,27 @@ div.price:hover {
 }
 
 /* Pricing header */
-div.price .header {
+.price .header {
   background-color: #111;
   color: white;
   font-size: 25px;
 }
 
 /* List items */
-div.price li {
+.price li {
   border-bottom: 1px solid #eee;
   padding: 20px;
   text-align: center;
 }
 
 /* Grey list item */
-div.price .grey {
+.price .grey {
   background-color: #eee;
   font-size: 20px;
 }
 
 /* The "Sign Up" button */
-div.button {
+.button {
   background-color: #04AA6D;
   border: none;
   color: white;
