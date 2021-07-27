@@ -4,7 +4,8 @@
 
 layout: home
 ---
-<!-- Start Pricing Table -->
+<html>
+	<body>
 		<div class="pricing-table text-center">
 			<div class="container">
 				<h2 class="h1">Pricing Table</h2>
@@ -50,5 +51,7 @@ layout: home
 				<div class="clearfix"></div>
 			</div>
 		</div>
-		<!-- End Pricing Table --> 
+
+</body>
+</html>
 
