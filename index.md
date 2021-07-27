@@ -4,59 +4,51 @@
 
 layout: home
 ---
-
-
-<html>
-<body>
-<title>Beispielseite mit CSS</title>
-<link rel="stylesheet" type="text/css" href="/pricebox.css" />
-
-
-
-
-<h2 style="text-align:center">Responsive Pricing Tables</h2>
-<p style="text-align:center">Resize the browser window to see the effect.</p>
-
-<div class="columns">
-  <ul class="price">
-    <li class="header">Basic</li>
-    <li class="grey">$ 9.99 / year</li>
-    <li>10GB Storage</li>
-    <li>10 Emails</li>
-    <li>10 Domains</li>
-    <li>1GB Bandwidth</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
-  </ul>
-</div>
-
-<div class="columns">
-  <ul class="price">
-    <li class="header" style="background-color:#04AA6D">Pro</li>
-    <li class="grey">$ 24.99 / year</li>
-    <li>25GB Storage</li>
-    <li>25 Emails</li>
-    <li>25 Domains</li>
-    <li>2GB Bandwidth</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
-  </ul>
-</div>
-
-<div class="columns">
-  <ul class="price">
-    <li class="header">Premium</li>
-    <li class="grey">$ 49.99 / year</li>
-    <li>50GB Storage</li>
-    <li>50 Emails</li>
-    <li>50 Domains</li>
-    <li>5GB Bandwidth</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
-  </ul>
-</div>
-
-</body>
-</html>
-
-
-
-
+<!-- Start Pricing Table -->
+		<div class="pricing-table text-center">
+			<div class="container">
+				<h2 class="h1">Pricing Table</h2>
+				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+				<div class="pricing-plan f-left">
+					<h3>Free</h3>
+					<span class="pricing">$0</span>
+					<ul class="list-unstyled">
+						<li>Disk Space: 1GB</li>
+						<li>BandWidth: 2GB</li>
+						<li>FTP Accounts: 5</li>
+						<li>DataBase: 5</li>
+						<li>Free Domain</li>
+					</ul>
+					<button>Shop Now</button>
+				</div>
+				
+				<div class="pricing-plan f-left">
+					<h3>Premium</h3>
+					<span class="pricing">$10</span>
+					<ul class="list-unstyled">
+						<li>Disk Space: 50GB</li>
+						<li>BandWidth: 100GB</li>
+						<li>FTP Accounts: 25</li>
+						<li>DataBase: 50</li>
+						<li>Free Domain</li>
+					</ul>
+					<button>Shop Now</button>
+				</div>
+				
+				<div class="pricing-plan f-left">
+					<h3>Ultimate</h3>
+					<span class="pricing">$50</span>
+					<ul class="list-unstyled">
+						<li>Disk Space: 150GB</li>
+						<li>BandWidth: 200GB</li>
+						<li>FTP Accounts: 50</li>
+						<li>DataBase: 100</li>
+						<li>Free Domain</li>
+					</ul>
+					<button>Shop Now</button>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<!-- End Pricing Table --> 
 
