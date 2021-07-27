@@ -117,9 +117,10 @@ layout: home
     </div>
   </div>
 </section>
-</ body>
-</ html>
+</body>
 
+<head>
+<style>
 /*
 *
 * ==========================================
@@ -161,4 +162,6 @@ body {
   color: #514B64;
   min-height: 100vh;
 }
-
+</style>
+</head>
+</html>
