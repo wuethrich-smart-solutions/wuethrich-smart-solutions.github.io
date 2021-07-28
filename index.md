@@ -16,7 +16,7 @@ layout: home
     <link rel="stylesheet prefetch" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&amp;subset=latin,cyrillic">
     <style>
         body {
-            background: url("http://pp.vk.me/c623124/v623124915/42806/oQsNfigr9tM.jpg");
+            background: url("http://");
             background-size: cover;
         }
         
