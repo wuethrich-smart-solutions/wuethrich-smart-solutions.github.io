@@ -7,7 +7,6 @@ layout: home
 
 
 
-<!doctype html>
 <!--[if lte IE 9]>
 <html lang="en" class="oldie">
 <![endif]-->
