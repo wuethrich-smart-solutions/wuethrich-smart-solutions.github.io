@@ -116,8 +116,8 @@ layout: home
 
 
 
-<div><p>Dies ist ein Test-Text<p>
-	</div>
+Dies ist ein Test-Text
+	
 
 
 
