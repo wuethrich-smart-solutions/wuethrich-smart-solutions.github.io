@@ -66,7 +66,9 @@ layout: home
   }
 }
 
+</style>
 
+<style>
 
 div.b {
   position: absolute;
