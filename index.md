@@ -60,6 +60,12 @@ layout: home
   font-size: 18px;
 }
 
+.text {
+	float: left;
+}
+
+
+
 @media only screen and (max-width: 600px) {
   .columns-pricebox {
     width: 100%;
@@ -108,7 +114,7 @@ layout: home
   </ul>
 </div>
 
-<div>Dies ist ein Test-Text
+<div class="text">Dies ist ein Test-Text
 	</div>
 
 </body>
