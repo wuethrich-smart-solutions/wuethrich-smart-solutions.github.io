@@ -60,6 +60,13 @@ layout: home
   font-size: 18px;
 }
 
+@media only screen and (max-width: 600px) {
+  .columns-pricebox {
+    width: 100%;
+  }
+}
+
+
 .text {
 	 position: absolute;   
        height: auto; width: 200px;    
@@ -68,11 +75,7 @@ layout: home
 
 
 
-@media only screen and (max-width: 600px) {
-  .columns-pricebox {
-    width: 100%;
-  }
-}
+
 </style>
 </head>
 <body>
