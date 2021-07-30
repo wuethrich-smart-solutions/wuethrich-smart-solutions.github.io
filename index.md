@@ -20,7 +20,7 @@ layout: home
   padding: 8px;
 }
 
-.price {
+.price-pricebox {
   list-style-type: none;
   border: 1px solid #eee;
   margin: 0;
@@ -29,28 +29,28 @@ layout: home
   transition: 0.3s;
 }
 
-.price:hover {
+.price-pricebox:hover {
   box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
 }
 
-.price .header {
+.price-pricebox .header {
   background-color: #111;
   color: white;
   font-size: 25px;
 }
 
-.price li {
+.price-pricebox li {
   border-bottom: 1px solid #eee;
   padding: 20px;
   text-align: center;
 }
 
-.price .grey {
+.price-pricebox .grey {
   background-color: #eee;
   font-size: 20px;
 }
 
-.button {
+.button-pricebox {
   background-color: #04AA6D;
   border: none;
   color: white;
@@ -73,7 +73,7 @@ layout: home
 <p style="text-align:center">Resize the browser window to see the effect.</p>
 
 <div class="columns-pricebox">
-  <ul class="price">
+  <ul class="price-pricebox">
     <li class="header">Basic</li>
     <li class="grey">$ 9.99 / year</li>
     <li>10GB Storage</li>
@@ -85,7 +85,7 @@ layout: home
 </div>
 
 <div class="columns-pricebox">
-  <ul class="price">
+  <ul class="price-pricebox">
     <li class="header" style="background-color:#04AA6D">Pro</li>
     <li class="grey">$ 24.99 / year</li>
     <li>25GB Storage</li>
@@ -97,7 +97,7 @@ layout: home
 </div>
 
 <div class="columns-pricebox">
-  <ul class="price">
+  <ul class="price-pricebox">
     <li class="header">Premium</li>
     <li class="grey">$ 49.99 / year</li>
     <li>50GB Storage</li>
@@ -109,7 +109,7 @@ layout: home
 </div>
 
 <div>
-&nbsp; Dies ist ein Test-Text
+Dies ist ein Test-Text
 	</div>
 
 </body>
