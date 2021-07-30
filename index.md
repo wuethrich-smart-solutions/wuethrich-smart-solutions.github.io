@@ -113,11 +113,7 @@ layout: home
 
 <div>
       <h2>Listenüberschrift</h2>
-      <ul>
-        <li>Listenpunkt 1</li>
-        <li>Listenpunkt 2</li>
-        <li>Listenpunkt 3</li>
-      </ul>
+     
 
 
 jkljköljljköljlöjlöjlö
