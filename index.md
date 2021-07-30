@@ -109,7 +109,7 @@ layout: home
 </div>
 
 <div>
-<p>Dies ist ein Test-Text<p>
+Dies ist ein Test-Text
 	</div>
 
 </body>
