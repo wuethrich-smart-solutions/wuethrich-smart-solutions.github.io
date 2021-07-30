@@ -68,6 +68,14 @@ layout: home
 
 
 
+div.b {
+  position: absolute;
+  left: auto;
+  width: 100px;
+  height: 120px;
+  border: 3px solid blue;
+} 
+
 
 
 
@@ -116,7 +124,7 @@ layout: home
 
 
 
-Dies ist ein Test-Text
+<div class="b">This div element has position: absolute and left: auto.</div>
 	
 
 
