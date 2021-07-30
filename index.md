@@ -108,7 +108,7 @@ layout: home
   </ul>
 </div>
 
-<div> Dies ist ein Test-Text
+<div>Dies ist ein Test-Text
 	</div>
 
 </body>
