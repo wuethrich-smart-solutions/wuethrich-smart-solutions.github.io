@@ -113,9 +113,14 @@ layout: home
     <li class="grey"><a href="#" class="button-pricebox">Sign Up</a></li>
   </ul>
 </div>
+</body>
+
+<body2>
 
 <div class="text">Dies ist ein Test-Text
 	</div>
 
-</body>
+
+
+</body2>
 </html>
