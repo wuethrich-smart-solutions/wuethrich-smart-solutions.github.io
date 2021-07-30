@@ -111,8 +111,14 @@ layout: home
 
 
 
-<p style="text-align:left">Resize the browser window to see the effect.</p>
-	
+<div>
+      <h2>Listenüberschrift</h2>
+      <ul>
+        <li>Listenpunkt 1</li>
+        <li>Listenpunkt 2</li>
+        <li>Listenpunkt 3</li>
+      </ul>
+</div>	
 
 
 
