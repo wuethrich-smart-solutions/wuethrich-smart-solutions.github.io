@@ -104,7 +104,7 @@ layout: home
     <li>50 Emails</li>
     <li>50 Domains</li>
     <li>5GB Bandwidth</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="grey"><a href="#" class="button-pricebox">Sign Up</a></li>
   </ul>
 </div>
 
