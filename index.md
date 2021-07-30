@@ -6,121 +6,111 @@ layout: home
 ---
 
 
-<html >
+
+
+<!-- Coding By CodingNepal - youtube.com/codingnepal -->
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>CSS3 Pricing Table</title>
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel="stylesheet">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
-<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css'>
-
-      <link rel="stylesheet" href="css/style.css">
-
-  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Pricing Tables | CodingNepal</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
-
 <body>
-  <h3 class="title">Inspired by <a href="https://tympanus.net/Development/PricingTablesInspiration/" target="_blank">Codrops</a> - Jinpa</h3>
-
-<div class="pricing-container">
-  <div class="row">
-    <div class="col-sm-3">
-      <div class="pricing-table">
-        <div class="tb-border"></div>
-        <div class="lr-border"></div>
-        <div class="pricing-inner">
-           <div class="plan-name">
-            <p><i class="fa fa-cog fa-fw fa-4x"></i></p>
-            <small>Basic</small>
-           </div>
-          <div class="plan-price-container">
-            <p class="plan-price">999<sup><small>$</small></sup></p>
+  <div class="wrapper">
+    <div class="table basic">
+      <div class="price-section">
+        <div class="price-area">
+          <div class="inner-area">
+            <span class="text">$</span>
+            <span class="price">29</span>
           </div>
-          <div class="plan-desc">
-             <p>Unlimited Access</p>
-              <p>100GB Storage</p>
-            <p>Limited Customer Support</p>
-            <p>Forum Access</p>
-            <p>Unlimited Downloads</p>
-          </div>
-          <button>Choose Plan</button>
-         </div>
+        </div>
       </div>
+      <div class="package-name"></div>
+      <ul class="features">
+        <li>
+          <span class="list-name">One Selected Template</span>
+          <span class="icon check"><i class="fas fa-check"></i></span>
+        </li>
+        <li>
+          <span class="list-name">100% Responsive Design</span>
+          <span class="icon check"><i class="fas fa-check"></i></span>
+        </li>
+        <li>
+          <span class="list-name">Credit Remove Permission</span>
+          <span class="icon cross"><i class="fas fa-times"></i></span>
+        </li>
+        <li>
+          <span class="list-name">Lifetime Template Updates</span>
+          <span class="icon cross"><i class="fas fa-times"></i></span>
+        </li>
+      </ul>
+      <div class="btn"><button>Purchase</button></div>
     </div>
-    <div class="col-sm-3">
-      <div class="pricing-table">
-        <div class="tb-border"></div>
-        <div class="lr-border"></div>
-        <div class="pricing-inner">
-           <div class="plan-name">
-            <p><i class="fa fa-cogs fa-fw fa-4x"></i></p>
-            <small>Professional</small>
-           </div>
-          <div class="plan-price-container">
-            <p class="plan-price">1299<sup><small>$</small></sup></p>
+    <div class="table premium">
+      <div class="ribbon"><span>Recommend</span></div>
+      <div class="price-section">
+        <div class="price-area">
+          <div class="inner-area">
+            <span class="text">$</span>
+            <span class="price">59</span>
           </div>
-          <div class="plan-desc">
-             <p>Unlimited Access</p>
-              <p>100GB Storage</p>
-            <p>Limited Customer Support</p>
-            <p>Forum Access</p>
-            <p>Unlimited Downloads</p>
-          </div>
-          <button>Choose Plan</button>
-         </div>
+        </div>
       </div>
+      <div class="package-name"></div>
+      <ul class="features">
+        <li>
+          <span class="list-name">Five Existing Templates</span>
+          <span class="icon check"><i class="fas fa-check"></i></span>
+        </li>
+        <li>
+          <span class="list-name">100% Responsive Design</span>
+          <span class="icon check"><i class="fas fa-check"></i></span>
+        </li>
+        <li>
+          <span class="list-name">Credit Remove Permission</span>
+          <span class="icon check"><i class="fas fa-check"></i></span>
+        </li>
+        <li>
+          <span class="list-name">Lifetime Template Updates</span>
+          <span class="icon cross"><i class="fas fa-times"></i></span>
+        </li>
+      </ul>
+      <div class="btn"><button>Purchase</button></div>
     </div>
-    <div class="col-sm-3">
-      <div class="pricing-table">
-        <div class="tb-border"></div>
-        <div class="lr-border"></div>
-        <div class="pricing-inner">
-           <div class="plan-name">
-            <p><i class="fa fa-calendar fa-fw fa-4x"></i></p>
-            <small>Premium</small>
-           </div>
-          <div class="plan-price-container">
-            <p class="plan-price">1499<sup><small>$</small></sup></p>
+    <div class="table ultimate">
+      <div class="price-section">
+        <div class="price-area">
+          <div class="inner-area">
+            <span class="text">$</span>
+            <span class="price">99</span>
           </div>
-          <div class="plan-desc">
-             <p>Unlimited Access</p>
-              <p>100GB Storage</p>
-            <p>Limited Customer Support</p>
-            <p>Forum Access</p>
-            <p>Unlimited Downloads</p>
-          </div>
-          <button>Choose Plan</button>
-         </div>
+        </div>
       </div>
-    </div>
-    <div class="col-sm-3">
-      <div class="pricing-table">
-        <div class="tb-border"></div>
-        <div class="lr-border"></div>
-        <div class="pricing-inner">
-           <div class="plan-name">
-            <p><i class="fa fa-rocket fa-fw fa-4x"></i></p>
-            <small>Ultra Premium</small>
-           </div>
-          <div class="plan-price-container">
-            <p class="plan-price">999<sup><small>$</small></sup></p>
-          </div>
-          <div class="plan-desc">
-             <p>Unlimited Access</p>
-              <p>100GB Storage</p>
-            <p>Limited Customer Support</p>
-            <p>Forum Access</p>
-            <p>Unlimited Downloads</p>
-          </div>
-          <button>Choose Plan</button>
-         </div>
-      </div>
+      <div class="package-name"></div>
+      <ul class="features">
+        <li>
+          <span class="list-name">All Existing Templates</span>
+          <span class="icon check"><i class="fas fa-check"></i></span>
+        </li>
+        <li>
+          <span class="list-name">100% Responsive Design</span>
+          <span class="icon check"><i class="fas fa-check"></i></span>
+        </li>
+        <li>
+          <span class="list-name">Credit Remove Permission</span>
+          <span class="icon check"><i class="fas fa-check"></i></span>
+        </li>
+        <li>
+          <span class="list-name">Lifetime Template Updates</span>
+          <span class="icon check"><i class="fas fa-check"></i></span>
+        </li>
+      </ul>
+      <div class="btn"><button>Purchase</button></div>
     </div>
   </div>
-</div>
-  
-  
+
 </body>
 </html>
