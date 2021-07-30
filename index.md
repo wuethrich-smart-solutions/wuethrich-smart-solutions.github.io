@@ -67,11 +67,6 @@ layout: home
 }
 
 
-.text {
-	  
-       height: auto; width: 200px;    
-       left: 0px; top: 9px; }   ;
-}
 
 
 
@@ -121,7 +116,7 @@ layout: home
 
 
 
-<div class="text">Dies ist ein Test-Text
+<div><p>Dies ist ein Test-Text<p>
 	</div>
 
 
