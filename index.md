@@ -61,7 +61,7 @@ layout: home
 }
 
 .text {
-	float: left;
+	text-align: left;
 }
 
 
