@@ -61,7 +61,7 @@ layout: home
 }
 
 @media only screen and (max-width: 600px) {
-  .columns {
+  .columns-pricebox {
     width: 100%;
   }
 }
