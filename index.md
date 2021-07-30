@@ -112,7 +112,7 @@ layout: home
 
 
 <div>
-      <h2>Listenüberschrift</h2>
+      <h2></h2>
      
 
 
