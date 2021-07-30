@@ -68,7 +68,7 @@ layout: home
 
 
 .text {
-	 position: absolute;   
+	  
        height: auto; width: 200px;    
        left: 0px; top: 9px; }   ;
 }
