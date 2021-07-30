@@ -67,19 +67,6 @@ layout: home
 }
 
 </style>
-
-<style>
-
-div.b {
-  position: absolute;
-  left: auto;
-  
-} 
-
-
-
-
-</style>
 </head>
 <body>
 
@@ -124,7 +111,7 @@ div.b {
 
 
 
-<div class="b">This div element has position: absolute and left: auto.</div>
+<p style="text-align:left">Resize the browser window to see the effect.</p>
 	
 
 
