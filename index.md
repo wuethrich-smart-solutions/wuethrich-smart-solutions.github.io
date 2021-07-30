@@ -115,12 +115,11 @@ layout: home
 </div>
 </body>
 
-<body2>
 
 <div class="text">Dies ist ein Test-Text
 	</div>
 
 
 
-</body2>
+
 </html>
