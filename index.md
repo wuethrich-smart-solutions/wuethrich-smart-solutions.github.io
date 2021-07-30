@@ -61,7 +61,9 @@ layout: home
 }
 
 .text {
-	text-align: left;
+	 position: absolute;   
+       height: auto; width: 200px;    
+       left: 0px; top: 9px; }   ;
 }
 
 
@@ -113,7 +115,7 @@ layout: home
     <li class="grey"><a href="#" class="button-pricebox">Sign Up</a></li>
   </ul>
 </div>
-</body>
+
 
 
 <div class="text">Dies ist ein Test-Text
@@ -121,5 +123,5 @@ layout: home
 
 
 
-
+</body>
 </html>
