@@ -73,7 +73,7 @@ layout: home
 <h2 style="text-align:center">Responsive Pricing Tables</h2>
 <p style="text-align:center">Resize the browser window to see the effect.</p>
 
-<div>
+<section>
 <div class="columns-pricebox">
   <ul class="price-pricebox">
     <li class="header-pricebox">Basic</li>
@@ -109,7 +109,7 @@ layout: home
     <li class="grey"><a href="#" class="button-pricebox">Sign Up</a></li>
   </ul>
 </div>
-	</div>
+	</section>
 
 
 
