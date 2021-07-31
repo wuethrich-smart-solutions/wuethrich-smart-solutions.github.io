@@ -66,10 +66,6 @@ layout: home
   }
 }
 
-.hr { display: block; height: 1px;
-    border: 0; border-top: 1px solid #ffffff;
-    margin: 1em 0; padding: 0; }
-
 </style>
 </head>
 <body>
@@ -116,8 +112,7 @@ layout: home
 	
 
 
-<div class="hr">
-</div>
+<hr style="border:none">
 
 
 <div style="float: left">
