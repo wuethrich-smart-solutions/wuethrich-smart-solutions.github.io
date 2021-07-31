@@ -95,7 +95,7 @@ layout: home
     <li>25 Domains</li>
     <li>2GB Bandwidth</li>
     <li class="grey"><a href="#" class="button-pricebox">Sign Up</a></li>
-  </ul>-
+  </ul>
 </div>
 
 <div class="columns-pricebox">
@@ -112,7 +112,7 @@ layout: home
 	
 
 <br>
-<hr>
+<hr style="border:hidden>"
 
 
 <div style="float: left">
