@@ -117,6 +117,7 @@ layout: home
 
 
 <div class="hr">
+</div>
 
 
 <div style="float: left">
