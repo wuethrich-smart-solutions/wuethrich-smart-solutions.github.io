@@ -119,7 +119,9 @@ layout: home
 <h1>Test</h1>
 </div>
 
-TEXT
+<div>
+<p>TEXT im Absatz<p>
+</div>
 
 
 
