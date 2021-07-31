@@ -124,7 +124,7 @@ layout: home
 
 
 <div style="text-align: right">
-Test
+<h1>Test</h1>
 </div>
 
 
