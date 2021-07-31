@@ -112,7 +112,7 @@ layout: home
 	
 
 
-<hr style="border:1px border-color:white">
+<hr style="border:1px; border-color:white">
 
 
 <div style="float: left">
