@@ -66,7 +66,7 @@ layout: home
   }
 }
 
-hr { display: block; height: 1px;
+.hr { display: block; height: 1px;
     border: 0; border-top: 1px solid #ffffff;
     margin: 1em 0; padding: 0; }
 
