@@ -112,7 +112,7 @@ layout: home
 	
 
 
-<hr>
+<hr style="color: white;>
 
 
 <div style="float: left">
