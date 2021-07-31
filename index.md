@@ -112,7 +112,7 @@ layout: home
 	
 
 
-<br>
+<br></br>
 
 
 <div style="float: left">
