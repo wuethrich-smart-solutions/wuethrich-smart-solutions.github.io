@@ -66,6 +66,14 @@ layout: home
   }
 }
 
+
+@media online screen {
+  h1 {break-after: avoid;}
+}
+
+
+
+
 </style>
 </head>
 <body>
