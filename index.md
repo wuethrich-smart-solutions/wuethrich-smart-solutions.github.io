@@ -117,7 +117,7 @@ layout: home
 
 <div style="float: left">
 <h1>Test</h1>
-<br>
+
 <p>TEXT im Absatz</p>
 </div>
 
