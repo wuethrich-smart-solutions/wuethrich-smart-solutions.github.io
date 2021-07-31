@@ -112,7 +112,7 @@ layout: home
 	
 
 
-<wbr>
+<hr style="border-color=ffffff">
 
 
 <div style="float: left">
