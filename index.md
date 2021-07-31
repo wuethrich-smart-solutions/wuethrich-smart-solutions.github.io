@@ -33,7 +33,7 @@ layout: home
   box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
 }
 
-.price-pricebox .header {
+.price-pricebox .header-pricebox {
   background-color: #111;
   color: white;
   font-size: 25px;
@@ -76,10 +76,10 @@ layout: home
 <div>
 <div class="columns-pricebox">
   <ul class="price-pricebox">
-    <li class="header">Basic</li>
+    <li class="header-pricebox">Basic</li>
     <li class="grey">$ 9.99 / year</li>
     <li>10GB Storage</li>
-    <li>10 Emails</li>
+    <li>10 Emails</li>-
     <li>10 Domains</li>
     <li>1GB Bandwidth</li>
     <li class="grey"><a href="#" class="button-pricebox">Sign Up</a></li>
@@ -88,7 +88,7 @@ layout: home
 
 <div class="columns-pricebox">
   <ul class="price-pricebox">
-    <li class="header" style="background-color:#04AA6D">Pro</li>
+    <li class="header-pricebox" style="background-color:#04AA6D">Pro</li>
     <li class="grey">$ 24.99 / year</li>
     <li>25GB Storage</li>
     <li>25 Emails</li>
@@ -100,7 +100,7 @@ layout: home
 
 <div class="columns-pricebox">
   <ul class="price-pricebox">
-    <li class="header">Premium</li>
+    <li class="header-pricebox">Premium</li>
     <li class="grey">$ 49.99 / year</li>
     <li>50GB Storage</li>
     <li>50 Emails</li>
@@ -113,10 +113,7 @@ layout: home
 
 
 
-<div>
-      <h2></h2>
 
-</div>	
 
 <div>
 Test
