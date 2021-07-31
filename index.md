@@ -115,7 +115,7 @@ layout: home
 
 
 <section>
-<div>
+<div style="text-align: left">
 Test
 </div>
 </section>
