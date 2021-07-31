@@ -120,7 +120,7 @@ layout: home
 </div>
 
 <div style="float: left">
-<p>TEXT im Absatz<p>
+<p>TEXT im Absatz</p>
 </div>
 
 
