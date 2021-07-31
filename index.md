@@ -67,7 +67,7 @@ layout: home
 }
 
 hr { display: block; height: 1px;
-    border: 0; border-top: 1px solid #ccc;
+    border: 0; border-top: 1px solid #ffffff;
     margin: 1em 0; padding: 0; }
 
 </style>
@@ -116,7 +116,7 @@ hr { display: block; height: 1px;
 	
 
 
-<hr>
+<div class="hr">
 
 
 <div style="float: left">
