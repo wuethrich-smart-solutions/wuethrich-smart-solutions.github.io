@@ -66,14 +66,6 @@ layout: home
   }
 }
 
-
-@media online screen {
-  h1 {break-after: avoid;}
-}
-
-
-
-
 </style>
 </head>
 <body>
@@ -123,7 +115,7 @@ layout: home
 
 
 
-<div style="text-align: right">
+<div style="float: left">
 <h1>Test</h1>
 </div>
 
