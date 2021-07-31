@@ -112,7 +112,7 @@ layout: home
 	
 
 <br>
-<hr style="border:hidden">
+<hr>
 
 
 <div style="float: left">
